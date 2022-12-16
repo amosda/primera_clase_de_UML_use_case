@@ -1,0 +1,13 @@
+                               UML
+
+DIAGRAMA DE CLases de uso: los casos de uso se pueden heredar, solo apuntaremos lo que
+nos vn a asegvir dentro del softwaree. 
+  usamos los grafucos elementos,
+	muñexo == actor
+	el circulo = caso de uso
+	el cuadrado _ simboliza sistema
+	asociacion 
+
+
+
+DATO:   los demas diagramas ssalen del DIAGRAMA DE CASO DE USO

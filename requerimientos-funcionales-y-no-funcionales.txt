@@ -1,0 +1,34 @@
+		MODELO O DISEÑO DE SOFTWARE
+
+
+LOS REQUIRIMEINTOS FUNCIONALES : son aquellos que descruben cualquier 
+actividad que deba realizar el comportammientoo o funcion de un sustema de software,
+o cuando se cumpolen ciertas condiciones
+}
+
+
+ES LA DESCRIPCION DE LO QUE DEBE HACER UN PROGRAMA, SON LAS PAUTAS PARA
+QUE UN PROGRAMADOR SIGA LA SECUENCIA DEL CODIGO Y ASI PODER CREAR UN 
+PRODUCTO FUNCIONAL, QUE SATISFAGA CIERTAS NECESIDAD
+
+
+REQUERIMIENTOS NO FUNCIONALES: orimero deberiuamos prefuntarnos:
+
+   COMO LO HACE EL SISTEMA?, esto nos ayudara en imaginar en la seguridad, la velocidad
+   del programa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
